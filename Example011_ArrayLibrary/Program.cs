@@ -31,8 +31,8 @@ int position = -1;
     {
         if(collection[index] == find)
         {   
-position = index;   
-break;
+            position = index;   
+            break;
         }
         index++;
     }
